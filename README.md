@@ -1,7 +1,7 @@
-# liwefn
+# Explore Mars
 
 # DESCRIPTION 
-sdliw
+As a user I want to be able to navigate to different mars rovers and choose different camera angles to view images from mars As a user, I want to be able to view NASA astronomy photo of the day, as well as a description of the image As a user, I want to be able to pull up the astronomy images and information of past dates (extra) As a user, I want to be able to view the date at the top of the page
 
 # TABLE OF CONTENTS
 
@@ -15,22 +15,22 @@ sdliw
 
 
 # INSTALLATION
-sdeoijw
+None
 
 # USAGE 
-asdlkiw
+Educational
 
 # LICENSE
 undefined
 
 # CONTRIBUTING
-sadlko
+Add contribution guidelines
 
 # TESTS
-widn
+None
 
 # QUESTIONS
-dfjlhjw
-sdlkwe
+kristielguerrero
+kristyguerrero20@gmail.com
 
 
